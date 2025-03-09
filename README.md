@@ -1,2 +1,2 @@
-# mikha.github.io
+# mikhajeon.github.io
 Gallery Website
